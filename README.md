@@ -1,4 +1,4 @@
-# OMUN Design Handbook - Table of Contents
+# OMUN Design Handbook
 
 The OMUN Design Handbook aims to document all of the aspects of the OMUN Design process. It provides a base set of foundational design rules and styles, as well as in-depth documentation of each type of design that is produced for OMUN.
 
