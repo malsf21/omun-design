@@ -1,6 +1,6 @@
 # Table of contents
 
-* The OMUN Design Handbook
+* OMUN Design Handbook - Table of Contents
 * [Introduction - The Design Handbook](introduction.md)
 * The Basics
 * Tools
