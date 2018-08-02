@@ -1,7 +1,7 @@
 # Roadmap
 
 | Product | Description | Recommended Start Time | Recommended Publish |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | Initial Website Release | Updating website for new conference information. | ~ Late April | ~ Early September |
 | Registration Open | Opens registration online, through whatever means. | As set by SGs. | As set by SGs. |
 | Social Media Push - Registration Open | Social media information on registration being open. | As set by SGs. | As set by SGs. |

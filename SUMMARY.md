@@ -1,20 +1,23 @@
 # Table of contents
 
 * [OMUN Design Handbook](README.md)
-* The Basics
-* Tools
-* Style Guide
+* [The Basics](basics.md)
+* [Tools](tools.md)
+* [Style Guide](style-guide.md)
 * [Roadmap](roadmap.md)
-* Conference Logos
-* Background Guides
-* Delegate Package
-* Rules of Procedure
-* Nametags
-* Placards
-* Notepads
-* Room Signs
-* Signage
-* Social Media
-* Website
-* Fair Chair
+* [Conference Logos](conference-logos.md)
+* [Data Merge](data-merge.md)
+* [Design Lifecycle](design-lifecycle/README.md)
+  * [Background Guides](design-lifecycle/background-guides.md)
+  * [Delegate Package](design-lifecycle/delegate-package.md)
+  * [Rules of Procedure](design-lifecycle/rules-of-procedure.md)
+  * [Nametags](design-lifecycle/nametags.md)
+  * [Placards](design-lifecycle/placards.md)
+  * [Notepads](design-lifecycle/notepads.md)
+  * [Room Signs](design-lifecycle/room-signs.md)
+  * [Social Media](design-lifecycle/social-media.md)
+  * [Signage](design-lifecycle/signage.md)
+  * [Website](design-lifecycle/website.md)
+* [Future](future.md)
+* [Fair Chair](fair-chair.md)
 
