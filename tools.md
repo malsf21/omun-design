@@ -1,6 +1,6 @@
 # Tools
 
-There isn't a single set of "must-have" tools that every designer at OMUJ needs, but there are sets of tools that make designing easy. In addition, many of the templates that OMUN builds its design off of were made in specific softwares: in those scenarios, designers will have to use that software.
+There isn't a single set of "must-have" tools that every designer at OMUN needs, but there are sets of tools that make designing easy. In addition, many of the templates that OMUN builds its design off of were made in specific softwares: in those scenarios, designers will have to use that software.
 
 #### A Note on Software Versioning {#a-note-on-software-versioning}
 
