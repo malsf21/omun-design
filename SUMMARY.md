@@ -17,7 +17,5 @@
   * [Room Signs](design-lifecycle/room-signs.md)
   * [Social Media](design-lifecycle/social-media.md)
   * [Signage](design-lifecycle/signage.md)
-  * [Website](design-lifecycle/website.md)
 * [Future](future.md)
-* [Fair Chair](fair-chair.md)
 
