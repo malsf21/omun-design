@@ -10,14 +10,14 @@ Placards are made with Adobe InDesign using Data Merge - anybody looking to make
 
 Placards have two or three Data Inputs, depending on what type of placard they are.
 
-For Country Placards:
+#### Country Placards
 
 | Data Input | Example |
 | :--- | :--- |
 | Committee \(Long\) | United Nations Security Council |
 | Position | Canada |
 
-For Portfolio Placards:
+#### Portfolio Placards
 
 | Data Input | Example |
 | :--- | :--- |
